@@ -10,7 +10,8 @@ ToDo List is a web app created using Node.js, Express.js, and MongoDB. It has se
 ## Quick Start 
 1. `npm install`
 2. `nodemon app.js`
-3. `Open in localhost:3000`
+
+Open in localhost:3000
 
 ## Simple demo 
 <p align="center">
